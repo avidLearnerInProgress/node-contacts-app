@@ -1,0 +1,15 @@
+{
+  "name": "contacts-app",
+  "version": "1.0.0",
+  "description": "Contacts app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chirag Shah",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^9.3.0",
+    "yargs": "^11.0.0"
+  }
+}
